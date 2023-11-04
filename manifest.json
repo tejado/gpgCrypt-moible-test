@@ -1,10 +1,10 @@
 {
-	"id": "gpg-crypt",
-	"name": "gpgCrypt",
+	"id": "gpg-crypt-test",
+	"name": "gpgCrypt-test",
 	"version": "0.2.0",
 	"minAppVersion": "1.4.5",
 	"description": "Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you.",
 	"author": "Tjado Mäcke",
 	"authorUrl": "https://github.com/tejado",
-	"isDesktopOnly": true
+	"isDesktopOnly": false
 }
